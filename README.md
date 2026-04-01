@@ -1,0 +1,2 @@
+# Analysis-of-Electoral-Trends-and-Voter-Behavior-in-Kerala-Legislative-Assembly-Elections
+Analyzes Kerala legislative assembly election data  to identify voting patterns and party performance. the data will be  used to examine votes received by parties across years,  voter turnout by constituency, candidate demographics,  and winning margins.  visualizations will be created to understand electoral  trends and voter behavior in Kerala.
